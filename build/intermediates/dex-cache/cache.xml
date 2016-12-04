@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_98d3b85210c70e005094a100899c961b002d7abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c91e7493e7c4d575132cce41ec1b5de09be8ea7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_9f8e7fb9854fbd0b799b526ab4317ca7b0d8d265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_2a25d17404f0f5a7b531dc57dcefb6432787202f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_af3248c7aaf53eae4765f29d4846a8f4058ef94d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9b4e2401341e6845c7319fe5c40de1d12a846038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_50485d6522a716db7176ca768bc9cecef398526e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4b209fb2293460ed0e3af746e34ec4cc3649f793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ff13a9b0b8f1069c7e9fe222f3dff56931aa00a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_50ab5cf067fd7a92d8616db05762ac5d492d7234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_638c32b1172eb250e966eb2822968c734b7de11a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_839b33e3a81da57146ae0d28da31beb0bbc999d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7884d4469b429e3111105834d130c02c0e45a9c1">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_214409771c23e111a43e48af1ec4888ea181ef58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_77899166513046098d1d0a6f3beb66ee41445301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP notebook\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_5d6409d4b003b34d0d84dc953c92238f9e6cb302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2426a770ff1000dfa238f8e703069673f329cc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw08TouchIt-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e0b9f596a69efc546744904218cd5803e06aab36">
+        <dex dex="F:\Programs\Labw08TouchIt-master\app\build\intermediates\pre-dexed\debug\instant-run_f55ee056a32e846f03e09cdeda97e3537ecc911c.jar" />
+    </item>
+
+</items>
